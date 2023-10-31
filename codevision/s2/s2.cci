@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:575228AF
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:29 "sevenSegmentNumberCodes -> RAM:????"
+NODE:V LEVEL:0 LINE:30 "i -> R4,R5"
+NODE:F LEVEL:0 LINE:32 "countSevenSegment(int from,int to)"
+NODE:F LEVEL:0 LINE:40 "main(void)"
